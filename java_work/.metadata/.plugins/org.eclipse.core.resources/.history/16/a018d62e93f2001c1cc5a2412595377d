@@ -1,0 +1,21 @@
+package ex0623;
+
+public class AA {
+
+	
+	// String = ?
+	// 컨트롤 M= 화면 확대 및 축소 간편하게 정리
+	// 컨트롤 S = 저장
+ 	// 컨트롤 D = 한줄 삭제
+	
+	// 밑에 줄이 메인 제일 처음 함수 시작 하는 구간.
+	public static void main(String[] args) {
+	
+		
+	}
+	
+	
+	
+	
+	
+}

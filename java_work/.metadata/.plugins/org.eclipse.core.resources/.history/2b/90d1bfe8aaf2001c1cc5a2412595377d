@@ -1,0 +1,15 @@
+
+public class DD {
+
+	
+ public static void main(String[] args) {
+	
+	 int a; //변수 a 선언
+	 a = 10; // 변수를 10으로 선언
+	 System.out.println("a="a);//"문자열"
+	 
+	 
+	 
+}	
+	
+}
